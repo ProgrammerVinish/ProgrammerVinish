@@ -58,24 +58,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerVinish&theme=tokyonight"
-    alt="GitHub Streak"
-  />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerVinish" />
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ProgrammerVinish&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerVinish&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ProgrammerVinish&show_icons=true" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProgrammerVinish&layout=compact" />
