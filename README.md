@@ -60,10 +60,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmervinish&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmervinish&show_icons=true&locale=en&layout=compact" alt="programmervinish" />
 </p>
 
 <p align="center">
