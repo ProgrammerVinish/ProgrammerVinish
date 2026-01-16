@@ -58,4 +58,4 @@
 ---
 
 ### 📊 GitHub Stats
-<p><img alt="programmervinish" src="https://github-readme-streak-stats.herokuapp.com/?user=programmervinish&amp;" align="center" style="filter: invert(0);"></p>
+<p><img alt="programmervinish" src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerVinish&amp;" align="center" style="filter: invert(0);"></p>
