@@ -59,22 +59,3 @@
 
 ### 📊 GitHub Stats
 <p><img alt="programmervinish" src="https://github-readme-streak-stats.herokuapp.com/?user=programmervinish&amp;" align="center" style="filter: invert(0);"></p>
-<p> </p>
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmervinish&show_icons=true&locale=en&layout=compact" alt="programmervinish" />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=programmervinish&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=programmervinish&theme=tokyonight"
-    alt="GitHub Streak"
-  />
-</p>
-
