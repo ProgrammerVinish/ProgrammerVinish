@@ -38,16 +38,12 @@
 
 ### 🤝 Connect with Me
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/vinish" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/vinish2.0" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/youtubewithvinish" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-  </a>
+<a href="https://github.com/ProgrammerVinish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ProgrammerVinish" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vinish-650900253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinish-650900253" height="30" width="40" /></a>
+<a href="https://instagram.com/vinish2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinish2.0" height="30" width="40" /></a>
+<a href="https://youtube.com/@youtubewithvinish3484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@youtubewithvinish3484" height="30" width="40" /></a>
 </p>
 
 ---
