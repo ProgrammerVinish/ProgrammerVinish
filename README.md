@@ -12,22 +12,6 @@
 - 🔭 **Currently working on:**  
   Building Android apps using **Kotlin & Jetpack Compose**, and learning the **basics of Web Development**
 
-- 🌱 **Currently learning:**  
-  - Jetpack Compose (Android 15)  
-  - Kotlin (Advanced, Coroutines, Flow)  
-  - C++ for DSA  
-  - Basic Web Development (APIs & Hackathons)  
-  - Unreal Engine  
-
-- 👯 **Looking to collaborate on:**  
-  Basic **Android** and **Web** projects
-
-- 💬 **Ask me about:**  
-  Android development (Kotlin, Compose),  
-  App architecture (MVVM, Clean Architecture),  
-  C++ basics & DSA,  
-  Mobile app ideas & system-level concepts
-
 - 📫 **How to reach me:**  
   **24h59.vinish@sjec.ac.in**
 
