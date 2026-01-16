@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinish</h1>
-<h3 align="center">Android Developer | System-Oriented Learner | Game Dev Enthusiast</h3>
+<h3 align="center">Android  | System-Oriented Learner | Basic Web Dev </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=programmervinish&label=Profile%20views&color=0e75b6&style=flat" alt="programmervinish" />
@@ -54,9 +54,8 @@
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerVinish" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmervinish&show_icons=true&locale=en&layout=compact" alt="programmervinish" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmervinish&show_icons=true&locale=en" alt="programmervinish" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ProgrammerVinish&show_icons=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProgrammerVinish&layout=compact" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmervinish&" alt="programmervinish" /></p>
